@@ -45,7 +45,7 @@ It generates points based on the amount of shows found in the .csv file. Everyth
 |
 |
 |
-
+## 
 
 
 
@@ -56,7 +56,7 @@ i@stage_party = 1 when a stage is active. This will be used later on.
 |
 |
 |
-
+## 
 
 
 
