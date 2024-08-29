@@ -1,13 +1,7 @@
-# Demcom_Festival_Scheduler_HOU
-
+# Demcom Festival Scheduler (Houdini)
 
 ![example_01](img/overview_example_01.png)
 
-
-
-# Decode Demcon 2024
-
-Repository with the [Decode Demcon 2024](https://mailing.demcon.com/lp/decode-demcon-challenge-festival-schedule-generator) implementation written in python.
 
 ## Intro
 
