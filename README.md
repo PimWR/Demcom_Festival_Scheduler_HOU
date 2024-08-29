@@ -91,14 +91,11 @@ Inside the crowd solver; the sop solver (add_stage_number_active). Is getting an
 
 
 
-
-
 ![crowd_solver_sops](img/goal_pos_crowd.png)
 By using a crowd steerforce the agents can be directed to the active stage.
 By checking if the stage_number that is active (on the stage points) == as the assigned stage number on the crowd group. Then we get the position of the stage and add this as a goal object to the agent.
 
 ##
-
 
 
 
