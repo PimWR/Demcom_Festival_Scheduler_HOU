@@ -16,10 +16,18 @@ All 1100+ Demcon employees are attending this festival. Make sure you plan ahead
 <iframe src="video/demcon_festival_overview_30_shows.mp4" width="640" height="480" allow="autoplay"></iframe>
 
 
-[![Watch the video](https://github.com/PimWR/Demcom_Festival_Scheduler_HOU/blob/a2ed69f77a219fde4f62ec92c8b1b479ab255108/video/demcon_festival_overview_30_shows.mp4)]
+https://github.com/PimWR/Demcom_Festival_Scheduler_HOU/blob/a2ed69f77a219fde4f62ec92c8b1b479ab255108/video/demcon_festival_overview_30_shows.mp4
 
 ## Installation
 
+
+
+
+# this is a *markdown* document
+
+<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=TheVideoID?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
+with a **youtube** video embedded
 
 Created using Houdini 20.5.332 Py 3.11
 
