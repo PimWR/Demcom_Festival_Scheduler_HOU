@@ -6,8 +6,10 @@
 ## Intro
 
 As a Houdini artist ( and soon to be Synthetic Data Engineer at Demcon! ), I couldn't resist doing this challenge in Houdini.
+
 As far as using python; I used python (inside Houdini) to make main festival scheduler.
-I added the code in "scripts/scheduler.py" that is used in the Python node inside Houdini. I commented out some of the Houdini related code, so it should be able to run from a commandline.
+
+I added the code in "scripts/scheduler.py" that is used inside Houdini. I commented out some of the Houdini related code, so it should be able to run from a commandline.
 
 The output is pushed downstream to proceduraly create a festival overview in Houdini.
 
@@ -25,8 +27,6 @@ Python code can be found in "scripts/scheduler.py" that is used in the Python no
 
 It should be able to run standalone.
 
-I already spend to much time on this, but a improvement would be using TOPS to output a preview .mp4. 
-So the script can be run through a commandline, without the need to start Houdini. 
 
 
 ## Usage
