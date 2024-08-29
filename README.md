@@ -15,7 +15,7 @@ The output is pushed downstream to procedurally create a festival overview in Ho
 
 All 1100+ Demcon employees are attending this festival. Make sure you plan ahead, because you have little time to go from one to the next, as you can see in the preview ;)
 
-Click the image below to see the preview:
+Click the below to see the preview video:
 
 [![preview_festival](img/play_preview.png)]( https://drive.google.com/file/d/1wzf1vK6FQn2MKWZ9W07eOYgYbjpq0Thf/view?usp=sharing )
 
