@@ -113,4 +113,7 @@ When there are for example 5 shows, with 3 stages, the terrain will resize based
 
 
 
+![input_shows](img/input_less_shows.png)
+When you change the input in the .csv file, everything is changing accordingly.
 
+##
