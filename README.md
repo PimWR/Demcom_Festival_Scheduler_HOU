@@ -18,7 +18,7 @@ All 1100+ Demcon employees are attending this festival. Make sure you plan ahead
 
 
 Created using Houdini 20.5.332 Py 3.11
-I added the code in "scripts/scheduler.py" that is used in the Python node inside Houdini.  
+Python code can be found in "scripts/scheduler.py" that is used in the Python node inside Houdini.  
 It should be able to run standalone.
 
 I already spend to much time on this, but a improvement would be using TOPS to output a preview .mp4. 
