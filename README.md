@@ -17,7 +17,7 @@ All 1100+ Demcon employees are attending this festival. Make sure you plan ahead
 
 [![preview_festival](img/play_preview2.png)]( https://drive.google.com/file/d/1wzf1vK6FQn2MKWZ9W07eOYgYbjpq0Thf/view?usp=sharing )
 
-					^ <b>PLAY THE PREVIEW BY CLICKING</b> ^
+				<b>	^ PLAY THE PREVIEW BY CLICKING ^ </b>
 
 ## Comments
 
