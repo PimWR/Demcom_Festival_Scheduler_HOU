@@ -16,6 +16,8 @@ All 1100+ Demcon employees are attending this festival. Make sure you plan ahead
 <iframe src="video/demcon_festival_overview_30_shows.mp4" width="640" height="480" allow="autoplay"></iframe>
 
 
+[![Watch the video](video/demcon_festival_overview_30_shows.mp4)](video/demcon_festival_overview_30_shows.mp4)
+
 ## Installation
 
 
