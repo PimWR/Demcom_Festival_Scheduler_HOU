@@ -28,8 +28,6 @@ Created using Houdini 20.5.332 Py 3.11
 
 Python code can be found in "scripts/scheduler.py" that is used in the Python node inside Houdini.  
 
-It should be able to run standalone.
-
 
 
 ## Setup overview:
