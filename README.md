@@ -17,6 +17,7 @@ All 1100+ Demcon employees are attending this festival. Make sure you plan ahead
 
 [![preview_festival](img/play_preview2.png)]( https://drive.google.com/file/d/1wzf1vK6FQn2MKWZ9W07eOYgYbjpq0Thf/view?usp=sharing )
 
+					^ PLAY THE PREVIEW BY CLICKING ^
 
 ## Comments
 
@@ -103,6 +104,7 @@ By checking if the stage_number that is active (on the stage points) == as the a
 
 
 ![terrain](img/terrain_steps.gif)
+## 
 Terrain is generated based on the amount of shows and amount of stages. 
 When there are for example 5 shows, with 3 stages, the terrain will resize based on those attributes. Masks are being created by connecting the stages to eachother by shortest path.
 
