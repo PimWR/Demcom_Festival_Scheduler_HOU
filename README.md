@@ -1,5 +1,7 @@
 # Demcon Festival Simulator
 
+Decode Demcon Challenge - festival schedule generator
+
 ![example_01](img/overview_example_01.png)
 
 
