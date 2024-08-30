@@ -54,7 +54,7 @@ class Stage:
 
     def __lt__(self, other):
         """
-        for use in stages.sort() so that stages that become free sooner are 
+        stages.sort() so that stages that become free sooner are 
         prioritized when assigning new shows.
         """
         return self.occupied_until < other.occupied_until # Compare stages based on their free time
