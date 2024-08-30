@@ -69,7 +69,7 @@ def schedule_bands(timetable):
     show_schedule = {} # Create an empty dictionary to store the show-stage mapping
     timetable.sort()  # Sort the timetable by start time
     
-    # Lists to store the final results to use in Houdini.
+    # Lists to store the final results to be used as Houdini attributes.
     show_names = []
     stage_numbers = []
     start_times = []
