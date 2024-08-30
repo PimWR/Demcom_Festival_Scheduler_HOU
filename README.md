@@ -122,7 +122,7 @@ When there are for example 5 shows, with 3 stages, the terrain will resize based
 
 -	Have the crowd walk over paths between stages.
 -	Import real popularity data to assign to shows (e.g. from Spotify, Youtube, Soundcloud..)
--	Create a priority list for each crowd agent, based on the popularity of the show.
+-	Create a priority list for the crowd agents, based on the popularity of the shows.
 -	One time frame before a new show starts, look at the popularity of that show and compare it with the agent's priority list. Have them move towards the stage before it starts.
 	If the current show is more popular than the next show starting, let them stay at the current stage before switching.
 -	Look at start- and end time for every show and look at the travel time (distance) between stages. Reorder schedule and stage placement based on that.
