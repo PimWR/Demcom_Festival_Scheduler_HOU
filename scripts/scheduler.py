@@ -28,7 +28,7 @@ for sn, s, e in list_reader:
     end = end_time.append(int(e))
     shown = show_name.append(sn)
        
-# show list from .csv:
+# reorder show list from .csv:
 show_list = [(start_time[i], end_time[i], show_name[i]) for i in range(0, len(show_name))]
 
 
@@ -36,8 +36,6 @@ class Stage:
     def __init__(self, stage_number):
         """
         Each stage represents a venue where shows can be scheduled.
-        Args:
-            stage_number (int): The unique identifier for the stage.
         """
         self.stage_number = stage_number # store stage number
         self.occupied_until = 0 # time until the stage is free
@@ -65,7 +63,7 @@ class Stage:
 def schedule_bands(timetable):
     """
     schedules shows across different stages based on their start and end times.
-    timetable (list): A list of tuples containing (start_time, end_time, show_name).
+    timetable (list): A list containing (start_time, end_time, show_name).
     """
     stages = [] # list to store stages
     show_schedule = {} # Create an empty dictionary to store the show-stage mapping
