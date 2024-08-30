@@ -113,7 +113,9 @@ show_listss = [(stage_numbers[i], show_names[i], start_times[i], end_times[i]) f
 for i in show_listss:
     print("show_schedule:", i)
 
-# # Create detail array attributes for each schedule info:
+
+# # Create Houdini detail array attributes for each output list:
+
 # geo.addArrayAttrib(hou.attribType.Global, "start_time_scheduling", hou.attribData.Int, tuple_size=1)
 # geo.setGlobalAttribValue("start_time_scheduling", start_times)
 
